@@ -31,12 +31,12 @@ class MatroskaSimpleBlock
 
   private long duration = Long.MIN_VALUE;
 
-  public MatroskaSimpleBlock()
+  MatroskaSimpleBlock()
   {
 
   }
 
-  public MatroskaSimpleBlock(final long duration)
+  MatroskaSimpleBlock(final long duration)
   {
 
   }

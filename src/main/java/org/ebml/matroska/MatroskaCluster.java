@@ -48,7 +48,7 @@ class MatroskaCluster
   private int totalSize = 0;
   private long durationLimit = Long.MAX_VALUE;
 
-  public MatroskaCluster()
+  MatroskaCluster()
   {
   }
 

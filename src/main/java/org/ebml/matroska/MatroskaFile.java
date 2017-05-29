@@ -748,7 +748,8 @@ public class MatroskaFile
     return scanFirstCluster;
   }
 
-  public long getSize() {
+  public long getSize() 
+  {
     return level0.getSize();
   }
 }

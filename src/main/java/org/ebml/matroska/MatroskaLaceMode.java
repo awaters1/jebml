@@ -9,7 +9,7 @@ public enum MatroskaLaceMode
 
   private final int representation;
 
-  private MatroskaLaceMode(final int representation)
+  MatroskaLaceMode(final int representation)
   {
     this.representation = representation;
   }

@@ -76,7 +76,7 @@ public class MatroskaFileTrack
 
     final byte type;
 
-    private TrackType(final int type)
+    TrackType(final int type)
     {
       this.type = (byte) type;
     }
